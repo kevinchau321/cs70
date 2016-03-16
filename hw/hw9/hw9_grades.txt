@@ -1,0 +1,34 @@
+dog
+#Problem 1.1: 4 
+#Problem 1.2: 4 
+#Problem 1.3: 4 
+#Problem 1.4: 4 
+#Problem 1.5: 3 missing some details on the graph
+#Problem 1.6: 4 
+#Problem 2.1: 4 
+#Problem 2.2: 4 
+#Problem 2.3: 4 
+#Problem 2.4: 4 
+#Problem 2.5: 4 
+#Problem 2.6: 4 
+#Problem 3.1: 4 
+#Problem 3.2: 4 
+#Problem 3.3: 4 
+#Problem 3.4: 4 
+#Problem 3.5: 4 
+#Problem 4.1: 4 
+#Problem 4.2: 4 
+#Problem 4.3: 4 
+#Problem 5: 4 
+#Problem 6: 4 
+#Problem 7: 4 
+#Problem 8: 4 
+#Problem 9: 4 
+#Problem 10: 4 
+#Problem 11: 4 
+#Problem 12: 4 
+#Problem 13: 4 
+#Problem 14: 4 
+#Problem 15: 4 
+#Problem 16: 4 
+#Problem 17: 2 got the wrong answer

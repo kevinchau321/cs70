@@ -1,0 +1,34 @@
+Listening to music, making music, playing piano
+#Problem 1.1: 4 
+#Problem 1.2: 4 
+#Problem 1.3: 4 
+#Problem 1.4: 4 
+#Problem 1.5: 4 
+#Problem 1.6: 4 
+#Problem 1.7: 4 
+#Problem 1.8: 4 
+#Problem 1.9: 4 
+#Problem 1.10: 3 Could not get around computation time efficiency problems with the solution as described in the matlab solutions
+#Problem 1.11: 3 Same reason
+#Problem 1.12: 0 
+#Problem 1.13: 0 
+#Problem 1.14: 0 
+#Problem 1.15: 0 
+#Problem 1.16: 0 
+#Problem 2: 4 
+#Problem 3.1: 4 
+#Problem 3.2: 4 
+#Problem 3.3: 4 
+#Problem 4.1: 2 Did not consider minimum value of k, and missed the floor division in the solution
+#Problem 4.2: 4 
+#Problem 4.3: 2 Did not use part 2 to construct answer, incorrectly handled the floor and max functions 
+#Problem 5: 4 
+#Problem 6.1: 4 
+#Problem 6.2: 1 because N is not prime, there are multiple solutions to the system of mod equations
+#Problem 6.3: 4 
+#Problem 6.4: 3 Missed that bob has to use multiplicative inverses
+#Problem 6.5: 4 
+#Problem 7.1: 4 
+#Problem 7.2: 4 
+#Problem 7.3: 1 completely wrong answer
+#Problem 8: 4 

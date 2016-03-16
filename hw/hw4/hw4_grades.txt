@@ -1,0 +1,23 @@
+#Problem 1.1: 1 Incorrect proof. Did not prove by induction.
+#Problem 1.2: 4 
+#Problem 1.3: 3 Did not show side lengths were equal, assumed angles were sufficient for regular pentagon.
+#Problem 1.4: 2 Incorrect answer
+#Problem 1.5: 1 Incorrect proof
+#Problem 2: 4 
+#Problem 3.1: 4 
+#Problem 3.2: 3 Mostly right, could have been more formally worded.
+#Problem 3.3: 1 Tried to give a proof of stability, did not consider counterexample
+#Problem 3.4: 1 Did not divide the problem into two phases with two improvement lemmas.
+#Problem 4.1: 4 
+#Problem 4.2: 4 
+#Problem 4.3: 4 
+#Problem 4.4: 2 just wrote examples, did not write formal notation like the solutions
+#Problem 4.5: 1 Proof was not formal or rigorous, incorrect
+#Problem 5.1: 4 
+#Problem 5.2: 4 
+#Problem 6.1: 4 
+#Problem 6.2: 4 
+#Problem 6.3: 4 
+#Problem 6.4: 2 Off by a factor of 2
+#Problem 6.5: 1 Clueless/ had no idea how to do this question
+#Problem 7: 4 

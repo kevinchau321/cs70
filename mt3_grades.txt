@@ -1,0 +1,17 @@
+yes
+#Problem 1: 1 +1.0 for Gave an answer that makes some sense
+#Problem 2: 2 2.0 for Gave some answer that makes sense. Actually has a description.
+#Problem 3: 10 +10.0 for Answered False and showed that P(B|A) = 0 != P(B) or P(A|B) = 0 != P(A).
+#Problem 4: 10 +10.0 for Explained ALL terms in the equation by a counting argument. This means that the LHS was explained with some sampling with replacement argument and EACH term in the RHS was explained with specifying whether one specific object was chosen or not in the counting process
+#Problem 5: 0 +0.0 for No partial credit for defining the events "knew the answer" and "answered correctly" *plus* some usage of Bayes rule that did not lead to a correct solution
+#Problem 6: 0 +0.0 for Incorrect answer (even if some of the work is correct or on the right track), or correct answer with no work
+#Problem 7: 7 +3.0 for Correct answer for part 1: 4^5 or 1024.
++4.0 for Correct answer for part 3: 6
+#Problem 8: 0 +0.0 for Blank or completely irrelevant attempt;
+#Problem 9: 0 +0.0 for Blank
+#Problem 10: 4 +4.0 for Circled False with invalid or missing reasoning
+#Problem 11: 15 +15.0 for Marked True. Reasoning completely correct with no algebraic mistakes. Eg. Used induction correctly or directly proved through algebraic manipulation.
+#Problem 12: 15 +15.0 for Fully correct (all probabilities that were asked for calculated correctly, with proper and correct justification for each).
+#Problem 13: 0 +0.0 for Incorrect algebraic proof that does not make significant progress.
+#Problem 14.1: 0 blank
+#Problem 14.2: 0 blank

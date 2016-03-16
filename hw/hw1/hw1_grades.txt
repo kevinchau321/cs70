@@ -1,0 +1,17 @@
+#Problem 1: 4 
+#Problem 2: 4 
+#Problem 3.1: 4 
+#Problem 3.2: 4 
+#Problem 4.1: 4 
+#Problem 4.2: 4 
+#Problem 4.3: 4 
+#Problem 5.1: 3 incorrectly answered A=1,B=0,C=1,D=0 output=1 (should be output=0), and A=1 B=0 C=0 D-1 Output=0 (should be output=1)
+#Problem 5.2: 4 
+#Problem 6.1: 4 
+#Problem 6.2: 4 
+#Problem 7.1: 4 
+#Problem 7.2: 3 Did not consider the limiting cases when there are only 9 or 8 coins in each bag. 
+#Problem 8.1: 4 
+#Problem 8.2: 4 
+#Problem 8.3: 4 
+#Problem 8.4: 4

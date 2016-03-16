@@ -1,0 +1,26 @@
+
+#Problem 1.1: 3 Wrong starting index for k. I wrote k = (n-m)/2, when the solution has +1 and floor division.
+#Problem 1.2: 1 started the problem but couldn't figure out how to make P(m+2X>n) into Chebyshev bound form. 
+#Problem 2.1: 4 
+#Problem 2.2: 4 
+#Problem 2.3: 4 
+#Problem 2.4: 4 
+#Problem 2.5: 4 
+#Problem 2.6: 4 
+#Problem 3.1: 4 
+#Problem 3.2: 4 
+#Problem 3.3: 4 
+#Problem 4.1: 4 
+#Problem 4.2: 4 
+#Problem 4.3: 0 OPTIONAL
+#Problem 5.1: 3 Counted the set the same way, but not as formal as I should have been
+#Problem 5.2: 4 
+#Problem 5.3: 4 
+#Problem 6.1: 1 completely wrong, I was thinking along the lines of compression
+#Problem 6.2: 0 OPTIONAL
+#Problem 6.3: 0 OPTIONAL
+#Problem 7.1: 0 OPTIONAL
+#Problem 7.2: 0 OPTIONAL
+#Problem 7.3: 0 OPTIONAL
+#Problem 7.4: 0 OPTIONAL
+#Problem 8: 4 

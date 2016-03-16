@@ -1,0 +1,34 @@
+function out = do_p ()
+
+    n = 10000;
+
+    ks = [2, 10, 50, 100, 500, 10000, 100000];
+    nks = size(ks, 2);
+    
+    qs = 0:0.01:1;
+    nqs = size(qs, 2);
+   
+    figure();
+    hs = [];
+    ls = {};
+
+    for kidx = 1:1:nks
+
+        k = ks(1, kidx);
+        head_fractions = flip_coin_k_times_n_times_fraction(n, k);
+
+        ys = zeros(1, nqs);
+        for qidx = 1:1:nqs
+            q = qs(1, qidx);
+            ys(1, qidx) = size(find(head_fractions <= q),1) / n;
+        end
+        h = plot((qs-0.5)*sqrt(k)+0.5, ys);
+        hold all;
+        hs = [hs, h];
+        ls = [ls, ['k = ', num2str(k)]];
+
+    end
+
+    legend(hs, ls);
+
+end

@@ -1,0 +1,20 @@
+Haven't studied as much as should. I tend to study for exams alone. I will be looking over the lecture notes, homeworks, warmup questions, and then I'll do a couple of practice exams.
+#Problem 1.1: 4 Note: solutions for the non-lab problems are after the lab question in the pdf
+#Problem 1.2: 4 
+#Problem 1.3: 4 
+#Problem 2.1: 3 slightly misinterpreted the question, but code /graph/comments show understanding
+#Problem 2.2: 4 
+#Problem 2.3: 4 
+#Problem 2.4: 4 
+#Problem 2.5: 4 
+#Problem 2.6: 4 
+#Problem 2.7: 4 
+#Problem 2.8: 3 Please look in the .zip for the other pictures. I honestly was running short on time and could not copy and paste / screenshot fast enough.
+#Problem 2.9: 2 I got the line in the log-log graph, but my values are off.
+#Problem 2.10: 3 Again, I ran out of time and couldn't put all the graphs in. But the code should generate them all, and I believe i generated them correctly.
+#Problem 2.11: 3 same reason as the part above
+#Problem 2.12: 0 optional. Did not do.
+#Problem 3.1: 4 
+#Problem 3.2: 2 wrong approach to minimum class size estimate
+#Problem 3.3: 4 
+#Problem 4: 4 
